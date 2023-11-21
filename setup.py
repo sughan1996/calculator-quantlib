@@ -12,7 +12,4 @@ setup(
     packages=find_packages(),
     install_requires=requirements,
     python_requires='=3.6',
-    dependency_links=[
-        'git+https://github.com/sughan1996/calculator-quantlib.git#egg=calculator-quantlib'
-    ]
 )
