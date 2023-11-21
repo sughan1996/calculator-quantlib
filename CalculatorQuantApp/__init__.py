@@ -1,1 +1,1 @@
-from CalculatorApp.controllers import *
+from CalculatorQuantApp.controllers import *
