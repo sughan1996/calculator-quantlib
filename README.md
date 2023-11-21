@@ -1,2 +1,2 @@
-# calculator-quantlib
-POC for calculator-quantlib
+# calculator-BE
+POC for CalculatorApp
