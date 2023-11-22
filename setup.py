@@ -4,9 +4,8 @@ requirements = open('requirements.txt').read().splitlines()
 
 setup(
     name='CalculatorQuantApp',
-    version='2.1.0',
     description='Your package description',
-    author='Your Name',
+    author='Sughan R Samson',
     author_email='sughanrichason1996@gmail.com',
     license='MIT',
     packages=find_packages(),
