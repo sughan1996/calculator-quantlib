@@ -19,5 +19,5 @@ class CalculatorQuant:
         return abs(a+b)
 
 
-    def quant_sub_abs(self, a, b):
+    def quant_subtract_abs(self, a, b):
         return abs(a+b)
