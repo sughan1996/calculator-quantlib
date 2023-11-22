@@ -26,3 +26,8 @@ def lambda_handler_quant_divide_abs(event : {} = None):
 def lambda_handler_quant_add_abs(event : {} = None):
     resp = calculator.quant_add_abs(**event)
     return resp
+
+
+def lambda_handler_quant_subtract_abs(event : {} = None):
+    resp = calculator.quant_subtract_abs(**event)
+    return resp
