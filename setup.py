@@ -4,7 +4,7 @@ requirements = open('requirements.txt').read().splitlines()
 
 setup(
     name='CalculatorQuantApp',
-    description='Your package description',
+    description='calculator-quantlib codebase',
     author='Sughan R Samson',
     author_email='sughanrichason1996@gmail.com',
     license='MIT',
