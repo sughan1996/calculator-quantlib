@@ -5,12 +5,6 @@ build-backend = "setuptools.build_meta"
 [tool.setuptools]
 setup-requires = ["setuptools_scm"]
 
-[tool.setuptools_scm]
-version_scheme = "guess-next-dev"
-root = "."
-write_to = "CalculatorQuantApp/__init__.py"
-version = {type = "git", tag = true, fallback_version = "3.0.0"}
-
 [tool.setuptools.metadata]
 name = "CalculatorQuantApp"
 description = "Calculator Quant code"
