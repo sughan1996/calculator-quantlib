@@ -13,3 +13,7 @@ class CalculatorQuant:
 
     def quant_divide_abs(self, a, b):
         return a//b
+
+
+    def quant_add_abs(self, a, b):
+        return abs(a+b)
