@@ -4,7 +4,7 @@ requirements = open('requirements.txt').read().splitlines()
 
 setup(
     name='CalculatorQuantApp',
-    version='1.1.0',
+    version='2.1.0',
     description='Your package description',
     author='Your Name',
     author_email='sughanrichason1996@gmail.com',

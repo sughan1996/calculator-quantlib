@@ -13,3 +13,7 @@ def lambda_handler_quant_subtract(event : {} = None):
 def lambda_handler_quant_multiply(event : {} = None):
     resp = calculator.quant_multiply(**event)
     return resp
+
+def lambda_handler_quant_divide(event : {} = None):
+    resp = calculator.quant_divide(**event)
+    return resp
